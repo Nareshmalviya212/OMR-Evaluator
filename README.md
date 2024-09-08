@@ -3,6 +3,7 @@ This Python script evaluates OMR (Optical Mark Recognition) sheets to automatica
 
 ## Overview
 The OMR Sheet Evaluator is a Python script designed to analyze scanned images of multiple-choice answer sheets and determine the correct answers. It uses image processing techniques to detect and recognize bubbles marked by the test taker and compares them with the correct answers provided in the answer key.
+![f3048ba61e77ab3f8619b632244950e0_fgraphic](https://github.com/user-attachments/assets/90eee04f-f776-454e-8cb1-202dedea67ac)
 
 ## Features
 Automatic Grading: The script automatically grades multiple-choice exams by analyzing scanned OMR sheets.
